@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Ivan",
+      "username": "ivan003",
+      "level": "Junior",
+      "id": 5
+    },
+    {
+      "name": "Petya",
+      "username": "001petya",
+      "level": "Senior",
+      "id": 6
+    },
+    {
+      "name": "dan1e11s",
+      "username": "admin",
+      "level": "Middle",
+      "id": 7
+    }
+  ]
+}
